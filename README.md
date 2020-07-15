@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Radial Bar Chart - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Radial Bar Chart component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/radial-bar-chart)
+- [Info Page](https://codyhouse.co/ds/components/info/radial-bar-chart)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
